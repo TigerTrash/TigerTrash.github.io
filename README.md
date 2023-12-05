@@ -1,3 +1,1 @@
-<body>
-  
-</body>
+<body><img src="./images/Page1Image.jpg" alt="Image"><img src="./images/Page2Image.jpg" alt="Image"><img src="./images/Page3Image.jpg" alt="Image"></body>
