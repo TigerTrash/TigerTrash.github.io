@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>TigerTrash Image Feed</title>
-    <link>https://github.com/TigerTrash/TigerTrash.github.io</link>
+    <link>https://raw.githubusercontent.com/TigerTrash/TigerTrash.github.io/main/rss.xml</link>
     <description>Images from TigerTrash</description>
     
     <!-- Image 1 -->
