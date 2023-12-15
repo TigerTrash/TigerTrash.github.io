@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TigerTrash Image Feed</title>
+    <link>https://github.com/TigerTrash/TigerTrash.github.io</link>
+    <description>Images from TigerTrash</description>
+    
+    <!-- Image 1 -->
+    <item>
+      <title>Page 1 Image</title>
+      <link>https://github.com/TigerTrash/TigerTrash.github.io/blob/main/images/Page1Image.jpg</link>
+      <description>Image 1 description here.</description>
+      <pubDate>Sat, 15 Dec 2023 12:00:00 GMT</pubDate>
+      <media:content url="https://github.com/TigerTrash/TigerTrash.github.io/blob/main/images/Page1Image.jpg" medium="image"/>
+    </item>
+    
+    <!-- Image 2 -->
+    <item>
+      <title>Page 2 Image</title>
+      <link>https://github.com/TigerTrash/TigerTrash.github.io/blob/main/images/Page2Image.jpg</link>
+      <description>Image 2 description here.</description>
+      <pubDate>Sun, 16 Dec 2023 12:00:00 GMT</pubDate>
+      <media:content url="https://github.com/TigerTrash/TigerTrash.github.io/blob/main/images/Page2Image.jpg" medium="image"/>
+    </item>
+
+    <!-- Image 3 -->
+    <item>
+      <title>Page 3 Image</title>
+      <link>https://github.com/TigerTrash/TigerTrash.github.io/blob/main/images/Page3Image.jpg</link>
+      <description>Image 3 description here.</description>
+      <pubDate>Mon, 17 Dec 2023 12:00:00 GMT</pubDate>
+      <media:content url="https://github.com/TigerTrash/TigerTrash.github.io/blob/main/images/Page3Image.jpg" medium="image"/>
+    </item>
+
+    <!-- Image 4 -->
+    <item>
+      <title>Page 4 Image</title>
+      <link>https://github.com/TigerTrash/TigerTrash.github.io/blob/main/images/Page4Image.jpg</link>
+      <description>Image 4 description here.</description>
+      <pubDate>Tue, 18 Dec 2023 12:00:00 GMT</pubDate>
+      <media:content url="https://github.com/TigerTrash/TigerTrash.github.io/blob/main/images/Page4Image.jpg" medium="image"/>
+    </item>
+  </channel>
+</rss>
